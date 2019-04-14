@@ -1,2 +1,0 @@
-# Multant
-Main application repo
